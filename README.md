@@ -17,6 +17,10 @@ Instalar
 
 ### Comandos:
 
-$ vagrant init hashcorp/precise64 $
+Cria ambiente
+$ vagrant init hashcorp/precise64 $ 
 
+Inicialização
 $ vagrant up $
+
+
