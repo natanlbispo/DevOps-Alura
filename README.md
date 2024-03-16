@@ -18,9 +18,25 @@ Instalar
 ### Comandos:
 
 Cria ambiente
-$ vagrant init hashcorp/precise64 $ 
+```  vagrant init hashcorp/precise64 ``` 
 
 Inicialização
-$ vagrant up $
+``` vagrant up  ```
+
+Status das máquinas
+``` vagrant status ```
+
+Subir a máquina 
+``` vagrant up ```
+
+Pare a máquina virtual
+``` vagrant halt```
+
+--
+Conhexão 
+``` vagrant ssh```
+
+Sair da conexão 
+``` exit ```
 
 
